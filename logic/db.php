@@ -1,4 +1,5 @@
 <?php
+//Настройка базы данных
 $driver = 'mysql';
 $host = 'localhost';
 $db_name = 'final';
